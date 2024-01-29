@@ -9,5 +9,6 @@
 **Level:** Undergraduate - Junior  
 **Position Title:** Student   
 **Course Webpage:** [IDS2024S](http://www.cdslab.org/IDS2024S)  
-**Photo:** ![A photo of Keith]()
+**Photo:**  
+![A photo of Keith](IMG-2251.jpeg)
 
