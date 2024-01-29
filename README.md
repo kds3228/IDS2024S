@@ -6,6 +6,8 @@
 **Email:** kds3328@mavs.uta.edu  
 **Department:** Department of University Studies  
 **University** The University of Texas  Arlington  
-**Level:** Undergraduate - Junior 
-**Position Title:** Student  
-**Course Webpage:** http://www.cdslab.org
+**Level:** Undergraduate - Junior  
+**Position Title:** Student   
+**Course Webpage:** [IDS2024S](http://www.cdslab.org/IDS2024S)  
+**Photo:** ![A photo of Keith]()
+
