@@ -4,4 +4,4 @@
 4.  If it's raining, then the clouds are out. 
 5.  If a and b, then  c.
 6.  
-7.  ![A photo of problem 7 Venn diagram](IMG.)
+7.  ![A photo of problem 7 Venn diagram](IMG_1135.jpeg)
