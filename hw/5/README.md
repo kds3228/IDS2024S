@@ -1,4 +1,4 @@
-1. The quantifiable features of the resulting graphics. 
+1. The quantifiable features of the resulting graphics. Position 
 2. 
 3.
 4.
