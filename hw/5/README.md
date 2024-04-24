@@ -1,11 +1,11 @@
-1. The quantifiable features of the resulting graphics. Position 
+1. The quantifiable features of the resulting graphics. Some examples of aesthics are position, color, line width and line type.
 2. 
-3.
-4.
+3. 
+4. 
 5.
-6. 
+6.
 7.
-8.
+8. 
 9.
 10.
 11.
@@ -22,3 +22,5 @@
 22.
 23.
 24.
+25.
+26.
