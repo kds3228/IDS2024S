@@ -6,7 +6,7 @@
    unordered: dog, cat, fish
 6. 
 7. Nonlinear axes
-8.
+8. When the axes have different units and different grid sizes. 
 9. E1 and E2
 10. Polar coordinates can be useful for data of a periodic nature, such that data values at one end of the scale are logically joined to data values at the other end.
 11. Qualitative color scale: a means to distinguish discrete items or groups that do not have an intrinsic order, such as different countries on a map.  
@@ -22,5 +22,5 @@
 17. ![a photo of question 17](IMG_1200.jpeg)
 18. Classical, Bayesian, Frequentist, and Propensity    
 19. I can see two living creatures: a frog and a fish.  
-20. 
+20. Move one matchstick from eight to make it 9+3-4=8.
    
